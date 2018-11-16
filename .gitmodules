@@ -1,0 +1,3 @@
+[submodule "Resources/DeleteMeChild"]
+	path = Resources/DeleteMeChild
+	url = https://github.com/nxju-pge/DeleteMeChild.git
